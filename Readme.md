@@ -12,7 +12,7 @@ key required, and genuinely natural-sounding.
 - Simple desktop GUI (Tkinter) — no command-line arguments needed
 - Natural neural TTS voices (US/UK, male/female)
 - Play, pause, and stop playback right inside the app
-- 💾 Save the generated MP3 anywhere you like
+- Save the generated MP3 anywhere you like
 - Cleans up common PDF text-extraction artifacts (hyphenated line breaks, stray whitespace)
 
 ## Requirements
